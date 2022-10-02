@@ -1,0 +1,47 @@
+#header {
+    
+    align-self: center;
+    text-align: center;
+}
+
+#bod {
+    background-color: gainsboro;
+
+}
+
+#tok_title {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    outline: dashed 1px black;
+    margin: auto;
+    background-color: white;
+    padding: 5px;
+}
+
+#tok_photo {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    outline: dashed 1px black;
+    margin: auto;
+    padding: 5px;
+}
+
+#pleft {
+    text-align: left;
+}
+
+#pright {
+    text-align: right;
+}
+
+#tok_footer {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    outline: dashed 1px black;
+    margin: auto;
+    background-color: white;
+    padding: 5px;
+}
